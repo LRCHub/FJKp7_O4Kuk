@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "黒猫道",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-14T13:42:06.007555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "黒猫道",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_黒猫道_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kuroneko-dō [黒猫道]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_Kuroneko-dō_[黒猫道]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "黒猫道",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/03_黒猫道_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "黒猫道",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/04_黒猫道_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "黒猫道",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/05_黒猫道_東京事変.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黒猫道",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_黒猫道_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "黒猫道",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_黒猫道_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "黒猫道",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_黒猫道_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "黒猫道",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_黒猫道_東京事変.txt"
+    }
+  ]
+}
